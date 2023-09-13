@@ -1,1 +1,2 @@
-# alx_low_level_programming
+#! /bin/bash
+    0_preprocessor
